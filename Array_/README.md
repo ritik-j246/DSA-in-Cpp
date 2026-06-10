@@ -9,6 +9,3 @@ I solved these 5 basic array and vector problems to get comfortable with element
 * `Sum_&_product_of_array.cpp` (Warmup code for simple vector traversal to find total sum and product)
 * `swap_max_min_index_arrya.cpp` (Tracking the exact indices of max/min elements to swap them in memory)
 
-## Key Takeaways
-* Got a clear idea of how a small change in bracket `{}` placement or `break` positioning completely flips the output.
-* Realized why nested loops ($O(N^2)$) become slow with larger inputs, which is exactly why I need to learn Sorting next.
